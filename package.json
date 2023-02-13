@@ -30,7 +30,7 @@
     "funcaptcha": "^1.0.15",
     "inquirer": "^7.3.3",
     "lodash": "^4.17.21",
-    "minimist": "^1.2.6",
+    "minimist": "^1.2.8",
     "mongoose": "^6.4.6",
     "noblox": "^4.8.5",
     "noblox.js": "^4.13.1",
